@@ -1,0 +1,33 @@
+# Ignore Node Modules
+node_modules/
+
+# Ignore Sublime Project Files
+*.sublime*
+
+# Ignore Hidden OS Filesystem Info
+*.DS_Store
+
+# Ignore Sass Cache
+*sass-cache*
+
+# Ignore all svn files
+*.svn*
+
+# Ignore all idea files
+*.idea*
+
+# Ignore all backup
+*_back*
+
+
+# Ignore cache
+application/var/cache/
+application/var/cache/*
+tmp/
+tmp/*
+projects/web
+projects/web/*
+projects/content
+projects/content/*
+uploads/
+uploads/*
